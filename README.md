@@ -1,2 +1,2 @@
-# Web_Scraping_Projects
-This repo contains python scripts used to learn how to scrape web pages with Selenium
+# My Attempts at Web Scraping
+In this repo, I followed a tutorial for scraping a script website for the full script to specific movies over single and multiple pages of the site using the Beautiful Soup module in Python.
